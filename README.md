@@ -1,0 +1,14 @@
+# publications-artifacts
+
+
+| Paper | Artifacts |
+|--------------------|-----------|
+| Isaque Barbosa; Matheus Pereira; Anderson Cruz; Roger Immich; Ramon dos Reis Fontes. **Redefining the Security of the Routing Protocol for Low-Power and Lossy Networks (RPL) with Post-Quantum Cryptography.** _To be appeared at CNSM 2025_ |  |
+| Dos Reis Fontes, Ramon; Cerqueira, Eduardo; Christian Rothenberg. **Wmediumd for 802.15.4: Bridging the Gap Between Simulation and Physical Testbeds.** _To be appeared at CNSM 2025_ | |
+| Mauricio Rodrigues; Ariel Goes de Castro; Ramon dos Reis Fontes; Fabricio Rodriguez; Christian Rothenberg. **DEMO: An Integrated Framework for Network Emulation and Multi-vehicle Algorithm Testing.** _To be appeared at SIGCOMM 2025_ |  |
+| Schmitz Bastos, Johann J.; C. Batista, João Pedro; Dos Reis Fontes, Ramon; Cerqueira, Eduardo; S. Villaça, Rodolfo; F. S. Mota, Vinícius. **A Lightweight Emulation Framework for Energy-Aware Federated Learning.** _To be appeared at SIGCOMM 2025_ |  |
+| Schmitz Bastos, Johann J.; C. Batista, João Pedro; Dos Reis Fontes, Ramon; Cerqueira, Eduardo; S. Villaça, Rodolfo; F. S. Mota, Vinícius. **Otimizando Energia no Aprendizado Federado em Redes de Baixa potência e com Alta Taxa de Perda de Pacotes.** In: SBRC 2025, Brasil. Anais do XLIII SBRC, 2025. p. 43. |  |
+| C. Batista, João Pedro; Schmitz Bastos, Johann J.; Dos Reis Fontes, Ramon; Cerqueira, Eduardo; F. S. Mota, Vinícius; S. Villaça, Rodolfo. **Detecção e Mitigação de Ataques de Inversão de Rótulos em Modelos Compactados e Privados no Aprendizado Federado.** In: SBRC 2025, Brasil. Anais do XLIII SBRC, 2025. p. 322. |  |
+| Souza, Tiago; Neto, Augusto V.; Rosário, Denis L.; Fontes, Ramon R.; Cerqueira, E. **P4LoWPAN: Transforming IoT Networks with a Programmable Data plane and In-band Telemetry.** In: IWCMC 2025, Abu Dhabi. IWCMC 2025. p. 14. | |
+| Filho, C.; Sousa, T.; Fontes, R. R.; Cerqueira, Eduardo. **Mininet-WPAN: Enabling WPAN and IoT Emulations with 802.15.4 Support.** In: SBRC 2025, Natal. Salão de Ferramentas do SBRC 2025 |  |
+| Rodriguez, M.; Castro, A. G.; Santana, I. A.; Fontes, R. R.; Cesen, F. E. R.; Rothenberg, C. E. **UNetyEmu: Unity-based simulator for aerial and non-aerial vehicles with integrated network emulation.** In: SBRC 2025, Natal. Salão de Ferramentas do SBRC 2025. |  |
